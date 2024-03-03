@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  font-family: "outfit", sans-serif;
+  background-color: skyblue;
+  min-height: 100vh;
+}
+
+img {
+  margin-top: 40px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-size: small;
+}
+
+.btn-full:link,
+.btn-full:visited {
+  background-color: #e67e22;
+  border: 5px solid #e67e22;
+  color: #fff;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+
+p {
+  margin-top: 20px;
+}
+
+input {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+span {
+  font-size: 12px;
+}
