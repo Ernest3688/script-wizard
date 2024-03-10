@@ -1,4 +1,4 @@
-//excercise 1
+//EXCERCISE 1
 
 let age = prompt(30);
 if (age >= 18) {
